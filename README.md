@@ -158,6 +158,17 @@ The My Plan page dynamically calculates:
 
 Number of workouts currently added to today's plan.
 
+### EmptyState
+
+Displays a consistent empty-state experience when no workouts exist in the current list.
+
+Example:
+NOTHING HERE YET
+
+Browse the library and add a lift to get today moving.
+
+[ Go to workouts ]
+
 ### Minutes
 
 Total duration of all workouts in today's plan.
