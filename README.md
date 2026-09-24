@@ -148,52 +148,8 @@ Total duration of all workouts in today's plan.
 
 Total calories associated with today's planned workouts.
 
+Example:
 
-
-### Project Structure
-
-FitLog/
-│
-├── app/
-│   ├── my-plan/
-│   │   └── page.tsx
-│   │
-│   ├── workout/
-│   │   └── [id]/
-│   │       └── page.tsx
-│   │
-│   ├── globals.css
-│   ├── layout.tsx
-│   ├── not-found.tsx
-│   └── page.tsx
-│
-├── components/
-│   ├── EmptyState.tsx
-│   ├── FitLogProvider.tsx
-│   ├── Footer.tsx
-│   ├── Hero.tsx
-│   ├── LoadingSpinner.tsx
-│   ├── Navbar.tsx
-│   ├── PlanCard.tsx
-│   ├── StatsCard.tsx
-│   ├── ToastProvider.tsx
-│   ├── WorkoutCard.tsx
-│   ├── WorkoutDetails.tsx
-│   ├── WorkoutGrid.tsx
-│   └── WorkoutPageClient.tsx
-│
-├── lib/
-│   ├── api.ts
-│   ├── storage.ts
-│   └── types.ts
-│
-├── public/
-│   ├── banner.png
-│   └── logo.png
-│
-├── .env.example
-├── next.config.ts
-├── package.json
-├── postcss.config.mjs
-├── README.md
-└── tsconfig.json
+```text
+Exercises     Minutes     Calories
+    2            23          190
