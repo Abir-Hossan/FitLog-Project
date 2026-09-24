@@ -131,6 +131,20 @@ Each saved workout provides:
 - Remove button
 
 ---
+### Tech Stack
+
+| Technology      | Purpose                        |
+| --------------- | ------------------------------ |
+| Next.js         | React framework and App Router |
+| React           | User interface                 |
+| TypeScript      | Static typing                  |
+| Tailwind CSS    | Styling and responsive design  |
+| React Hooks     | State and lifecycle management |
+| Lucide React    | UI icons                       |
+| React Hot Toast | Toast notifications            |
+| LocalStorage    | Client-side persistence        |
+| REST API        | Workout data                   |
+
 
 ## 📊 Dynamic Statistics
 
@@ -153,3 +167,4 @@ Example:
 ```text
 Exercises     Minutes     Calories
     2            23          190
+
