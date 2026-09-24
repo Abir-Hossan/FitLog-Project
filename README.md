@@ -145,7 +145,7 @@ Each saved workout provides:
 | LocalStorage    | Client-side persistence        |
 | REST API        | Workout data                   |
 
-###📡 API
+ 📡 API
 
 FitLog retrieves workout information from the following API:
 https://api.abcz.workers.dev/api/fitlog
