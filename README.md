@@ -148,11 +148,7 @@ Total duration of all workouts in today's plan.
 
 Total calories associated with today's planned workouts.
 
-Example:
 
-```text
-Exercises     Minutes     Calories
-    2            23          190
 
 ### Project Structure
 
